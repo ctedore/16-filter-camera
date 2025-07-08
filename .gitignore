@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+
+# output files
+realFilters.jpeg
+realFilters.csv
