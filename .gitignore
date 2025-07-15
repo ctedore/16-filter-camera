@@ -2,5 +2,8 @@
 .DS_Store
 
 # output files
-realFilters.jpeg
+realFilters.png
 realFilters.csv
+
+*ComputatFilterCoeffs.csv
+*ComputatFilters.png
