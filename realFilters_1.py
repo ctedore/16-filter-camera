@@ -48,4 +48,4 @@ plt.tight_layout()
 # Save outputs
 plt.savefig("realFilters.png", dpi=600)
 np.savetxt("realFilters.csv", filters, delimiter=",")
-print("Processing complete. Outputs saved as 'realFilters.png' and 'realFilters.mat'.")
+print("Processing complete. Outputs saved as 'realFilters.png' and 'realFilters.csv'.")
