@@ -10,7 +10,7 @@ subpl_y = 1
 subpl_x = 1
 
 # PARAMETERS OF OPSINS & OIL DROPLETS TO SIMULATE
-animal = 'Maratus'
+animal = 'demo'
 chromophore = 'a1'
 lambMax = [355, 504, 532, 565]
 oMid = [np.nan, np.nan, np.nan, np.nan]
